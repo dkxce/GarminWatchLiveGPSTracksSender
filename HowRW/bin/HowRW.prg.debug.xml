@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8App.mc" id="4" lineNum="21" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8App.mc" id="4" lineNum="22" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8App.mc" id="5" lineNum="26" pc="268435479" symbol="onStart"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8App.mc" id="5" lineNum="27" pc="268435483" symbol="onStart"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8App.mc" id="6" lineNum="31" pc="268435514" symbol="onStop"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8App.mc" id="7" lineNum="35" pc="268435519" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8App.mc" id="7" lineNum="36" pc="268435523" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="10" lineNum="19" pc="268435591" symbol="initialize"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="10" lineNum="20" pc="268435595" symbol="initialize"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="11" lineNum="23" pc="268435614" symbol="onMenu"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="11" lineNum="25" pc="268435618" symbol="onMenu"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="11" lineNum="26" pc="268435682" symbol="onMenu"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="11" lineNum="28" pc="268435694" symbol="onMenu"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="11" lineNum="29" pc="268435721" symbol="onMenu"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="11" lineNum="31" pc="268435773" symbol="onMenu"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="11" lineNum="34" pc="268435825" symbol="onMenu"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="11" lineNum="35" pc="268435874" symbol="onMenu"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="11" lineNum="36" pc="268435923" symbol="onMenu"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="11" lineNum="37" pc="268435972" symbol="onMenu"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="11" lineNum="38" pc="268436021" symbol="onMenu"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="11" lineNum="39" pc="268436073" symbol="onMenu"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="12" lineNum="42" pc="268436077" symbol="onKey"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="12" lineNum="43" pc="268436081" symbol="onKey"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="12" lineNum="44" pc="268436108" symbol="onKey"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="12" lineNum="45" pc="268436123" symbol="onKey"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="12" lineNum="47" pc="268436153" symbol="onKey"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="12" lineNum="49" pc="268436183" symbol="onKey"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="12" lineNum="51" pc="268436213" symbol="onKey"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="12" lineNum="54" pc="268436243" symbol="onKey"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="12" lineNum="55" pc="268436259" symbol="onKey"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="13" lineNum="58" pc="268436263" symbol="onEnter"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="13" lineNum="60" pc="268436267" symbol="onEnter"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="13" lineNum="61" pc="268436292" symbol="onEnter"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="13" lineNum="63" pc="268436315" symbol="onEnter"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="15" lineNum="69" pc="268436338" symbol="initialize"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="15" lineNum="70" pc="268436342" symbol="initialize"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="73" pc="268436365" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="75" pc="268436369" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="77" pc="268436386" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="78" pc="268436410" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="80" pc="268436441" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="82" pc="268436458" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="83" pc="268436482" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="85" pc="268436513" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="87" pc="268436530" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="88" pc="268436554" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="90" pc="268436585" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="92" pc="268436602" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="93" pc="268436666" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="94" pc="268436715" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="95" pc="268436764" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="96" pc="268436813" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="97" pc="268436862" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="98" pc="268436911" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="99" pc="268436960" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="100" pc="268436983" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="101" pc="268437035" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="103" pc="268437090" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="105" pc="268437107" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="106" pc="268437171" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="107" pc="268437220" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="108" pc="268437269" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="109" pc="268437318" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="110" pc="268437367" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="112" pc="268437422" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="114" pc="268437439" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="115" pc="268437464" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="115" pc="268437487" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="116" pc="268437509" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="117" pc="268437553" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="119" pc="268437572" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="121" pc="268437649" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="122" pc="268437674" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="122" pc="268437697" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="16" lineNum="123" pc="268437719" symbol="onSelect"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="17" lineNum="127" pc="268437739" symbol="onBack"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="17" lineNum="128" pc="268437743" symbol="onBack"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="18" lineNum="131" pc="268437772" symbol="onWrap"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="18" lineNum="132" pc="268437776" symbol="onWrap"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="20" lineNum="140" pc="268437780" symbol="initialize"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="20" lineNum="141" pc="268437784" symbol="initialize"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="20" lineNum="142" pc="268437810" symbol="initialize"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="20" lineNum="143" pc="268437820" symbol="initialize"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="146" pc="268437831" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="147" pc="268437835" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="148" pc="268437845" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="150" pc="268437859" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="151" pc="268437876" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="152" pc="268437904" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="153" pc="268437921" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="154" pc="268437949" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="155" pc="268437966" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="156" pc="268437994" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="157" pc="268438011" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="158" pc="268438045" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="159" pc="268438062" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="160" pc="268438079" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="162" pc="268438092" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="164" pc="268438105" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="165" pc="268438122" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="166" pc="268438145" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="167" pc="268438158" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="168" pc="268438181" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="169" pc="268438194" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="170" pc="268438217" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="172" pc="268438233" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="173" pc="268438250" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="174" pc="268438299" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="175" pc="268438316" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="176" pc="268438329" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="177" pc="268438346" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="178" pc="268438359" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="179" pc="268438376" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="180" pc="268438386" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="181" pc="268438403" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="182" pc="268438410" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="183" pc="268438433" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="184" pc="268438443" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="185" pc="268438466" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="186" pc="268438476" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="187" pc="268438499" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="189" pc="268438509" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="190" pc="268438525" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="191" pc="268438542" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="192" pc="268438555" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="193" pc="268438572" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="194" pc="268438582" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="195" pc="268438599" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="196" pc="268438622" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="197" pc="268438656" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="198" pc="268438679" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="200" pc="268438713" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="202" pc="268438747" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="203" pc="268438764" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="204" pc="268438787" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="205" pc="268438821" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="206" pc="268438844" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="208" pc="268438878" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="210" pc="268438912" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="211" pc="268438929" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="212" pc="268438952" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="213" pc="268438986" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="214" pc="268439009" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="216" pc="268439043" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="218" pc="268439077" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="219" pc="268439094" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="220" pc="268439117" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="221" pc="268439151" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="222" pc="268439174" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="224" pc="268439214" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="227" pc="268439248" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="228" pc="268439365" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="229" pc="268439404" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="230" pc="268439441" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="232" pc="268439480" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="235" pc="268439495" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="236" pc="268439531" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="237" pc="268439616" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="238" pc="268439652" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Delegate.mc" id="21" lineNum="239" pc="268439690" symbol="draw"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="24" lineNum="49" pc="268439753" symbol="IsRunning"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="24" lineNum="49" pc="268439757" symbol="IsRunning"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="25" lineNum="51" pc="268439767" symbol="initialize"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="25" lineNum="53" pc="268439771" symbol="initialize"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="25" lineNum="54" pc="268439819" symbol="initialize"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="25" lineNum="55" pc="268439836" symbol="initialize"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="25" lineNum="57" pc="268439858" symbol="initialize"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="25" lineNum="60" pc="268439877" symbol="initialize"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="25" lineNum="61" pc="268439919" symbol="initialize"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="25" lineNum="62" pc="268439961" symbol="initialize"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="25" lineNum="64" pc="268439993" symbol="initialize"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="25" lineNum="65" pc="268440027" symbol="initialize"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="25" lineNum="67" pc="268440068" symbol="initialize"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="26" lineNum="70" pc="268440081" symbol="Once"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="26" lineNum="72" pc="268440085" symbol="Once"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="26" lineNum="73" pc="268440108" symbol="Once"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="27" lineNum="76" pc="268440126" symbol="Start"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="27" lineNum="78" pc="268440130" symbol="Start"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="27" lineNum="79" pc="268440141" symbol="Start"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="27" lineNum="81" pc="268440145" symbol="Start"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="27" lineNum="82" pc="268440155" symbol="Start"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="27" lineNum="83" pc="268440167" symbol="Start"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="27" lineNum="85" pc="268440184" symbol="Start"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="27" lineNum="89" pc="268440206" symbol="Start"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="27" lineNum="91" pc="268440225" symbol="Start"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="28" lineNum="95" pc="268440249" symbol="Stop"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="28" lineNum="97" pc="268440253" symbol="Stop"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="28" lineNum="98" pc="268440265" symbol="Stop"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="28" lineNum="100" pc="268440269" symbol="Stop"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="28" lineNum="101" pc="268440279" symbol="Stop"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="28" lineNum="102" pc="268440291" symbol="Stop"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="28" lineNum="103" pc="268440304" symbol="Stop"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="28" lineNum="104" pc="268440323" symbol="Stop"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="29" lineNum="108" pc="268440347" symbol="LoadParams"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="29" lineNum="110" pc="268440351" symbol="LoadParams"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="29" lineNum="111" pc="268440382" symbol="LoadParams"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="29" lineNum="113" pc="268440390" symbol="LoadParams"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="29" lineNum="117" pc="268440405" symbol="LoadParams"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="29" lineNum="119" pc="268440415" symbol="LoadParams"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="29" lineNum="120" pc="268440446" symbol="LoadParams"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="29" lineNum="122" pc="268440453" symbol="LoadParams"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="30" lineNum="126" pc="268440467" symbol="SaveParams"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="30" lineNum="128" pc="268440471" symbol="SaveParams"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="30" lineNum="129" pc="268440509" symbol="SaveParams"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="31" lineNum="132" pc="268440548" symbol="onTimer"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="31" lineNum="134" pc="268440552" symbol="onTimer"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="31" lineNum="135" pc="268440570" symbol="onTimer"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="31" lineNum="137" pc="268440582" symbol="onTimer"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="31" lineNum="139" pc="268440586" symbol="onTimer"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="31" lineNum="141" pc="268440626" symbol="onTimer"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="31" lineNum="142" pc="268440639" symbol="onTimer"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="31" lineNum="143" pc="268440656" symbol="onTimer"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="31" lineNum="145" pc="268440671" symbol="onTimer"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="32" lineNum="148" pc="268440691" symbol="onReceive"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="32" lineNum="150" pc="268440695" symbol="onReceive"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="32" lineNum="151" pc="268440739" symbol="onReceive"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="32" lineNum="153" pc="268440965" symbol="onReceive"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="32" lineNum="154" pc="268440975" symbol="onReceive"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="32" lineNum="155" pc="268440994" symbol="onReceive"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="32" lineNum="158" pc="268441004" symbol="onReceive"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="32" lineNum="159" pc="268441008" symbol="onReceive"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="32" lineNum="161" pc="268441145" symbol="onReceive"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="32" lineNum="164" pc="268441152" symbol="onReceive"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="32" lineNum="166" pc="268441157" symbol="onReceive"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="32" lineNum="167" pc="268441167" symbol="onReceive"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="32" lineNum="168" pc="268441186" symbol="onReceive"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="32" lineNum="169" pc="268441196" symbol="onReceive"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="32" lineNum="171" pc="268441234" symbol="onReceive"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="32" lineNum="172" pc="268441257" symbol="onReceive"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="32" lineNum="176" pc="268441278" symbol="onReceive"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="32" lineNum="177" pc="268441288" symbol="onReceive"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="32" lineNum="178" pc="268441307" symbol="onReceive"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="32" lineNum="181" pc="268441317" symbol="onReceive"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="33" lineNum="185" pc="268441341" symbol="GetGeoNow"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="33" lineNum="187" pc="268441345" symbol="GetGeoNow"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="33" lineNum="188" pc="268441368" symbol="GetGeoNow"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="33" lineNum="189" pc="268441381" symbol="GetGeoNow"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="33" lineNum="190" pc="268441407" symbol="GetGeoNow"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="34" lineNum="193" pc="268441411" symbol="GetStepsNow"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="34" lineNum="195" pc="268441415" symbol="GetStepsNow"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="34" lineNum="196" pc="268441432" symbol="GetStepsNow"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="34" lineNum="198" pc="268441442" symbol="GetStepsNow"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="35" lineNum="201" pc="268441446" symbol="GetAccNow"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="35" lineNum="203" pc="268441450" symbol="GetAccNow"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="35" lineNum="204" pc="268441467" symbol="GetAccNow"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="35" lineNum="205" pc="268441474" symbol="GetAccNow"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="35" lineNum="206" pc="268441481" symbol="GetAccNow"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="35" lineNum="207" pc="268441488" symbol="GetAccNow"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="35" lineNum="209" pc="268441495" symbol="GetAccNow"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="35" lineNum="211" pc="268441522" symbol="GetAccNow"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="35" lineNum="212" pc="268441532" symbol="GetAccNow"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="35" lineNum="213" pc="268441542" symbol="GetAccNow"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="35" lineNum="215" pc="268441555" symbol="GetAccNow"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="35" lineNum="217" pc="268441582" symbol="GetAccNow"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="35" lineNum="218" pc="268441592" symbol="GetAccNow"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="35" lineNum="219" pc="268441602" symbol="GetAccNow"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="35" lineNum="221" pc="268441615" symbol="GetAccNow"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="36" lineNum="224" pc="268441685" symbol="WebCall"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="36" lineNum="226" pc="268441689" symbol="WebCall"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="36" lineNum="227" pc="268441706" symbol="WebCall"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="36" lineNum="228" pc="268441723" symbol="WebCall"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="36" lineNum="229" pc="268441740" symbol="WebCall"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="36" lineNum="230" pc="268441755" symbol="WebCall"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="36" lineNum="231" pc="268441772" symbol="WebCall"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="40" lineNum="342" pc="268444588" symbol="onSensor"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="40" lineNum="344" pc="268444592" symbol="onSensor"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="40" lineNum="345" pc="268444602" symbol="onSensor"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="40" lineNum="347" pc="268444609" symbol="onSensor"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="40" lineNum="351" pc="268444631" symbol="onSensor"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="40" lineNum="353" pc="268444644" symbol="onSensor"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="40" lineNum="354" pc="268444654" symbol="onSensor"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="40" lineNum="356" pc="268444661" symbol="onSensor"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="40" lineNum="360" pc="268444683" symbol="onSensor"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="40" lineNum="362" pc="268444696" symbol="onSensor"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="40" lineNum="363" pc="268444706" symbol="onSensor"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="40" lineNum="365" pc="268444713" symbol="onSensor"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="40" lineNum="369" pc="268444735" symbol="onSensor"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="41" lineNum="373" pc="268444749" symbol="Bgrnd"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="41" lineNum="375" pc="268444753" symbol="Bgrnd"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="41" lineNum="376" pc="268444771" symbol="Bgrnd"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="41" lineNum="377" pc="268444804" symbol="Bgrnd"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8Main.mc" id="41" lineNum="378" pc="268444832" symbol="Bgrnd"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="44" lineNum="15" pc="268444853" symbol="initialize"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="44" lineNum="16" pc="268444857" symbol="initialize"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="45" lineNum="20" pc="268444876" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="45" lineNum="21" pc="268444880" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="46" lineNum="27" pc="268444918" symbol="onShow"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="32" pc="268444923" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="33" pc="268444927" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="34" pc="268444937" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="36" pc="268444947" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="37" pc="268444954" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="39" pc="268444961" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="41" pc="268444978" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="43" pc="268445007" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="44" pc="268445014" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="45" pc="268445048" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="48" pc="268445061" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="50" pc="268445068" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="52" pc="268445093" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="54" pc="268445110" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="55" pc="268445117" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="56" pc="268445146" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="58" pc="268445156" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="61" pc="268445181" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="63" pc="268445198" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="64" pc="268445205" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="65" pc="268445249" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="67" pc="268445372" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="69" pc="268445389" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="70" pc="268445414" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="71" pc="268445427" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="73" pc="268445517" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="74" pc="268445533" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="76" pc="268445552" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="78" pc="268445569" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="79" pc="268445576" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="81" pc="268445630" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="83" pc="268445647" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="84" pc="268445654" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="86" pc="268445702" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="88" pc="268445719" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="89" pc="268445726" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="91" pc="268445774" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="93" pc="268445791" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="94" pc="268445798" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="96" pc="268445823" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="98" pc="268445840" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="99" pc="268445847" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="102" pc="268445875" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="104" pc="268445906" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="105" pc="268445946" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="47" lineNum="106" pc="268445958" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="48" lineNum="112" pc="268446050" symbol="onHide"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="49" lineNum="115" pc="268446055" symbol="ConvertDegrees"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="49" lineNum="117" pc="268446059" symbol="ConvertDegrees"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="49" lineNum="118" pc="268446070" symbol="ConvertDegrees"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="49" lineNum="120" pc="268446096" symbol="ConvertDegrees"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="49" lineNum="121" pc="268446117" symbol="ConvertDegrees"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="49" lineNum="122" pc="268446133" symbol="ConvertDegrees"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="49" lineNum="123" pc="268446143" symbol="ConvertDegrees"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="49" lineNum="124" pc="268446154" symbol="ConvertDegrees"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="49" lineNum="126" pc="268446203" symbol="ConvertDegrees"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="49" lineNum="127" pc="268446224" symbol="ConvertDegrees"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="49" lineNum="128" pc="268446240" symbol="ConvertDegrees"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="49" lineNum="129" pc="268446250" symbol="ConvertDegrees"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="49" lineNum="130" pc="268446261" symbol="ConvertDegrees"/>
+        <entry filename="C:\\Users\\Android\\eclipse-workspace\\HowRW\\source\\x8View.mc" id="49" lineNum="133" pc="268446333" symbol="ConvertDegrees"/>
+        <entry filename="Rez" id="55" lineNum="16" pc="268446403" symbol="MainLayout"/>
+        <entry filename="Rez" id="55" lineNum="18" pc="268446415" symbol="MainLayout"/>
+        <entry filename="Rez" id="55" lineNum="19" pc="268446534" symbol="MainLayout"/>
+        <entry filename="Rez" id="55" lineNum="21" pc="268446586" symbol="MainLayout"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="17" symbol="buttons_expected"/>
+        <entry field="true" id="43" symbol="AppID"/>
+        <entry field="true" id="53" symbol="string_user_id"/>
+        <entry field="true" id="33" symbol="call_service_2"/>
+        <entry field="true" id="34" symbol="call_service_1"/>
+        <entry field="true" id="32" symbol="call_service_0"/>
+        <entry field="true" id="58" symbol="string_user_code"/>
+        <entry id="21" object="true" symbol="x8Main"/>
+        <entry field="true" id="45" symbol="geo_format"/>
+        <entry id="31" method="true" symbol="MainLayout"/>
+        <entry field="true" id="97" symbol="AppVersion"/>
+        <entry field="true" id="62" symbol="geo3"/>
+        <entry field="true" id="61" symbol="geo2"/>
+        <entry field="true" id="60" symbol="geo1"/>
+        <entry field="true" id="38" symbol="geo0"/>
+        <entry field="true" id="67" symbol="&lt;globals/x8Main/&lt;&gt;timer&gt;"/>
+        <entry field="true" id="25" symbol="geoFormatNum"/>
+        <entry field="true" id="109" symbol="appTitle"/>
+        <entry field="true" id="16" symbol="buttons_pressed"/>
+        <entry id="81" method="true" symbol="Once"/>
+        <entry field="true" id="8390407" symbol="mLabel"/>
+        <entry field="true" id="8389605" symbol="accel"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry id="22" object="true" symbol="x8View"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="68" symbol="&lt;globals/x8Main/&lt;&gt;counter&gt;"/>
+        <entry id="13" object="true" symbol="x8App"/>
+        <entry field="true" id="51" symbol="string_call_prefix"/>
+        <entry id="19" object="true" symbol="x5MenuDelegate"/>
+        <entry field="true" id="46" symbol="call_service"/>
+        <entry field="true" id="66" symbol="&lt;globals/x8Main/&lt;&gt;running&gt;"/>
+        <entry field="true" id="103" symbol="CALL_USER_MMT"/>
+        <entry id="94" method="true" symbol="&lt;globals/x8Main/&lt;&gt;WebCall_Navicom&gt;"/>
+        <entry id="8388634" module="true" symbol="Ant"/>
+        <entry field="true" id="39" symbol="AppName"/>
+        <entry id="8388633" module="true" symbol="ActivityMonitor"/>
+        <entry field="true" id="98" symbol="CALL_SVC"/>
+        <entry id="93" method="true" symbol="&lt;globals/x8Main/&lt;&gt;WebCall_MapMyTracks&gt;"/>
+        <entry id="88" method="true" symbol="GetGeoNow"/>
+        <entry id="8389594" symbol="headers"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389081" method="true" symbol="onBack"/>
+        <entry id="8390425" module="true" symbol="Properties"/>
+        <entry field="true" id="15" symbol="last_behavior"/>
+        <entry field="true" id="110" symbol="page0Top"/>
+        <entry field="true" id="65" symbol="prompt"/>
+        <entry field="true" id="29" symbol="id_monkey"/>
+        <entry field="true" id="24" symbol="disable_menu_ss"/>
+        <entry id="89" method="true" symbol="GetStepsNow"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry field="true" id="106" symbol="string_TS"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="85" method="true" symbol="SaveParams"/>
+        <entry field="true" id="107" symbol="string_PS"/>
+        <entry id="28" module="true" symbol="Menus"/>
+        <entry field="true" id="64" symbol="update_interval"/>
+        <entry field="true" id="55" symbol="m8"/>
+        <entry field="true" id="54" symbol="m7"/>
+        <entry field="true" id="52" symbol="m6"/>
+        <entry field="true" id="50" symbol="m5"/>
+        <entry field="true" id="49" symbol="m4"/>
+        <entry field="true" id="48" symbol="m3"/>
+        <entry field="true" id="47" symbol="m2"/>
+        <entry field="true" id="8389606" symbol="mag"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="105" symbol="string_HR"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry field="true" id="111" symbol="page12more"/>
+        <entry field="true" id="100" symbol="CALL_APP_ID"/>
+        <entry field="true" id="69" symbol="LAST_TRY_DT"/>
+        <entry field="true" id="70" symbol="LAST_TRY_CN"/>
+        <entry field="true" id="102" symbol="CALL_USER_CODE"/>
+        <entry id="20" object="true" symbol="CustomItem"/>
+        <entry id="80" method="true" symbol="IsRunning"/>
+        <entry id="8388637" module="true" symbol="Communications"/>
+        <entry field="true" id="79" symbol="LAST_OK_ST"/>
+        <entry field="true" id="14" symbol="last_key"/>
+        <entry field="true" id="8390345" symbol="mId"/>
+        <entry id="8390752" symbol="focusItemHeight"/>
+        <entry id="126" symbol="item2004"/>
+        <entry id="125" symbol="item2003"/>
+        <entry id="124" symbol="item2002"/>
+        <entry id="123" symbol="item2001"/>
+        <entry id="8389844" symbol="responseType"/>
+        <entry id="8388699" method="true" symbol="stop"/>
+        <entry field="true" id="77" symbol="LAST_OK_DT"/>
+        <entry id="8388786" method="true" symbol="method"/>
+        <entry field="true" id="78" symbol="LAST_OK_CN"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry field="true" id="99" symbol="CALL_SERVICE"/>
+        <entry id="115" symbol="cfgmenu"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="122" symbol="item10"/>
+        <entry id="87" method="true" symbol="onReceive"/>
+        <entry field="true" id="40" symbol="running"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="95" method="true" symbol="onSensor"/>
+        <entry id="114" symbol="item9"/>
+        <entry id="121" symbol="item6"/>
+        <entry id="120" symbol="item4"/>
+        <entry id="119" symbol="item3"/>
+        <entry id="118" symbol="item2"/>
+        <entry id="117" symbol="item1"/>
+        <entry field="true" id="41" symbol="m15"/>
+        <entry field="true" id="37" symbol="m12"/>
+        <entry field="true" id="36" symbol="m10"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="23" method="true" symbol="onEnter"/>
+        <entry id="82" method="true" symbol="Start"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry id="108" method="true" symbol="ConvertDegrees"/>
+        <entry field="true" id="30" symbol="LauncherIcon"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry field="true" id="35" symbol="s90"/>
+        <entry id="8388643" module="true" symbol="Sensor"/>
+        <entry id="18" object="true" symbol="x8Delegate"/>
+        <entry field="true" id="56" symbol="s60"/>
+        <entry field="true" id="57" symbol="string_disable_menu_ss"/>
+        <entry id="91" method="true" symbol="WebCall"/>
+        <entry field="true" id="63" symbol="s45"/>
+        <entry field="true" id="42" symbol="s30"/>
+        <entry field="true" id="59" symbol="s20"/>
+        <entry field="true" id="44" symbol="s15"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="83" method="true" symbol="Stop"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="73" symbol="LAST_RES_ST"/>
+        <entry id="8390749" method="true" symbol="onWrap"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="96" method="true" symbol="Bgrnd"/>
+        <entry id="90" method="true" symbol="GetAccNow"/>
+        <entry id="8389097" method="true" symbol="onKey"/>
+        <entry field="true" id="71" symbol="LAST_RES_DT"/>
+        <entry field="true" id="76" symbol="LAST_BAD_ST"/>
+        <entry field="true" id="72" symbol="LAST_RES_CN"/>
+        <entry id="84" method="true" symbol="LoadParams"/>
+        <entry field="true" id="112" symbol="x8Mc"/>
+        <entry field="true" id="101" symbol="CALL_USER_ID"/>
+        <entry id="92" method="true" symbol="&lt;globals/x8Main/&lt;&gt;WebCall_BigBrotherGPS&gt;"/>
+        <entry id="8388646" module="true" object="true" symbol="Timer"/>
+        <entry id="27" module="true" symbol="Layouts"/>
+        <entry id="8388698" method="true" symbol="start"/>
+        <entry id="8388642" module="true" symbol="Position"/>
+        <entry id="116" symbol="reports"/>
+        <entry field="true" id="74" symbol="LAST_BAD_DT"/>
+        <entry field="true" id="104" symbol="INTERVAL"/>
+        <entry field="true" id="75" symbol="LAST_BAD_CN"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="113" symbol="once"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="86" method="true" symbol="onTimer"/>
+        <entry field="true" id="26" symbol="repPage"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435514" name="state" stackId="1" startPc="268435479"/>
+        <entry endPc="268435519" name="state" stackId="1" startPc="268435514"/>
+        <entry endPc="268436076" name="menu" stackId="1" startPc="268435618"/>
+        <entry endPc="268436263" name="evt" stackId="1" startPc="268436077"/>
+        <entry endPc="268437087" name="customMenu" stackId="2" startPc="268436602"/>
+        <entry endPc="268437419" name="customMenu" stackId="3" startPc="268437107"/>
+        <entry endPc="268437739" name="item" stackId="1" startPc="268436365"/>
+        <entry endPc="268437780" name="key" stackId="1" startPc="268437772"/>
+        <entry endPc="268437831" name="mid" stackId="3" startPc="268437780"/>
+        <entry endPc="268437831" name="label" stackId="2" startPc="268437780"/>
+        <entry endPc="268437831" name="id" stackId="1" startPc="268437780"/>
+        <entry endPc="268438522" name="geoFormatText" stackId="3" startPc="268438403"/>
+        <entry endPc="268439752" name="txt" stackId="2" startPc="268437835"/>
+        <entry endPc="268439753" name="dc" stackId="1" startPc="268437831"/>
+        <entry endPc="268440466" name="isr" stackId="1" startPc="268440351"/>
+        <entry endPc="268440466" name="last" stackId="2" startPc="268440351"/>
+        <entry endPc="268441340" name="cont" stackId="5" startPc="268440695"/>
+        <entry endPc="268441340" name="today" stackId="3" startPc="268440695"/>
+        <entry endPc="268441340" name="dateTime" stackId="4" startPc="268440695"/>
+        <entry endPc="268441341" name="responseCode" stackId="1" startPc="268440691"/>
+        <entry endPc="268441341" name="data" stackId="2" startPc="268440691"/>
+        <entry endPc="268441410" name="myPoc" stackId="1" startPc="268441345"/>
+        <entry endPc="268441410" name="myGeo" stackId="3" startPc="268441345"/>
+        <entry endPc="268441410" name="myLoc" stackId="2" startPc="268441345"/>
+        <entry endPc="268441445" name="steps" stackId="2" startPc="268441415"/>
+        <entry endPc="268441445" name="info" stackId="1" startPc="268441415"/>
+        <entry endPc="268441552" name="accel" stackId="6" startPc="268441522"/>
+        <entry endPc="268441612" name="mag" stackId="7" startPc="268441582"/>
+        <entry endPc="268441684" name="yAccel" stackId="3" startPc="268441450"/>
+        <entry endPc="268441684" name="yMag" stackId="5" startPc="268441450"/>
+        <entry endPc="268441684" name="xAccel" stackId="2" startPc="268441450"/>
+        <entry endPc="268441684" name="xMag" stackId="4" startPc="268441450"/>
+        <entry endPc="268441684" name="info" stackId="1" startPc="268441450"/>
+        <entry endPc="268441788" name="cType" stackId="1" startPc="268441685"/>
+        <entry endPc="268442698" name="url" stackId="9" startPc="268441792"/>
+        <entry endPc="268442698" name="params" stackId="5" startPc="268441792"/>
+        <entry endPc="268442698" name="dateTime2" stackId="7" startPc="268441792"/>
+        <entry endPc="268442698" name="myPoc" stackId="3" startPc="268441792"/>
+        <entry endPc="268442698" name="ttimme" stackId="2" startPc="268441792"/>
+        <entry endPc="268442698" name="myLoc" stackId="4" startPc="268441792"/>
+        <entry endPc="268442698" name="responseCallback" stackId="8" startPc="268441792"/>
+        <entry endPc="268442698" name="today" stackId="1" startPc="268441792"/>
+        <entry endPc="268442698" name="options" stackId="6" startPc="268441792"/>
+        <entry endPc="268443359" name="today" stackId="5" startPc="268442703"/>
+        <entry endPc="268443359" name="options" stackId="4" startPc="268442703"/>
+        <entry endPc="268443359" name="responseCallback" stackId="7" startPc="268442703"/>
+        <entry endPc="268443359" name="dateTime2" stackId="6" startPc="268442703"/>
+        <entry endPc="268443359" name="myPoc" stackId="1" startPc="268442703"/>
+        <entry endPc="268443359" name="params" stackId="3" startPc="268442703"/>
+        <entry endPc="268443359" name="myLoc" stackId="2" startPc="268442703"/>
+        <entry endPc="268444587" name="today" stackId="2" startPc="268443364"/>
+        <entry endPc="268444587" name="options" stackId="5" startPc="268443364"/>
+        <entry endPc="268444587" name="responseCallback" stackId="7" startPc="268443364"/>
+        <entry endPc="268444587" name="dateTime2" stackId="6" startPc="268443364"/>
+        <entry endPc="268444587" name="dateTime" stackId="3" startPc="268443364"/>
+        <entry endPc="268444587" name="params" stackId="4" startPc="268443364"/>
+        <entry endPc="268444588" name="cType" stackId="1" startPc="268443360"/>
+        <entry endPc="268444748" name="HR" stackId="2" startPc="268444592"/>
+        <entry endPc="268444748" name="TS" stackId="3" startPc="268444592"/>
+        <entry endPc="268444748" name="PS" stackId="4" startPc="268444592"/>
+        <entry endPc="268444749" name="sensor_info" stackId="1" startPc="268444588"/>
+        <entry endPc="268444852" name="td" stackId="1" startPc="268444753"/>
+        <entry endPc="268444918" name="dc" stackId="1" startPc="268444876"/>
+        <entry endPc="268445369" name="today" stackId="6" startPc="268445198"/>
+        <entry endPc="268445549" name="myPoc" stackId="7" startPc="268445389"/>
+        <entry endPc="268445549" name="myLoc" stackId="8" startPc="268445389"/>
+        <entry endPc="268446049" name="pageTop" stackId="3" startPc="268444927"/>
+        <entry endPc="268446049" name="mMessage" stackId="9" startPc="268444927"/>
+        <entry endPc="268446049" name="mTop" stackId="2" startPc="268444927"/>
+        <entry endPc="268446049" name="pageBottom" stackId="5" startPc="268444927"/>
+        <entry endPc="268446049" name="pageMiddle" stackId="4" startPc="268444927"/>
+        <entry endPc="268446050" name="dc" stackId="1" startPc="268444923"/>
+        <entry endPc="268446402" name="ss" stackId="7" startPc="268446203"/>
+        <entry endPc="268446402" name="min" stackId="6" startPc="268446203"/>
+        <entry endPc="268446402" name="deg" stackId="3" startPc="268446096"/>
+        <entry endPc="268446402" name="mm" stackId="5" startPc="268446096"/>
+        <entry endPc="268446402" name="exp" stackId="4" startPc="268446096"/>
+        <entry endPc="268446403" name="dd" stackId="1" startPc="268446055"/>
+        <entry endPc="268446403" name="frm" stackId="2" startPc="268446055"/>
+        <entry endPc="268446603" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268446415"/>
+        <entry endPc="268446604" name="dc" stackId="1" startPc="268446403"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="119" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="246" parentId="globals" symbolId="x8Delegate" type="class"/>
+        <dataEntry offset="372" parentId="globals" symbolId="x5MenuDelegate" type="class"/>
+        <dataEntry offset="443" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="522" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="569" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="600" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="631" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="670" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="701" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="1004" parentId="globals" symbolId="CustomItem" type="class"/>
+        <dataEntry offset="1075" parentId="globals" symbolId="x8Main" type="class"/>
+        <dataEntry offset="1489" parentId="globals" symbolId="x8View" type="class"/>
+        <dataEntry offset="1631" parentId="globals" symbolId="x8App" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="x8App">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="x8App">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="x8App">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="x8App">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="x8Delegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenu" parent="x8Delegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onKey" parent="x8Delegate">
+            <param id="evt"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnter" parent="x8Delegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="x5MenuDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="x5MenuDelegate">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onBack" parent="x5MenuDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onWrap" parent="x5MenuDelegate">
+            <param id="key"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="CustomItem">
+            <param id="id"/>
+            <param id="label"/>
+            <param id="mid"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="CustomItem">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="IsRunning" parent="x8Main">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="x8Main">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="Once" parent="x8Main">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="Start" parent="x8Main">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="Stop" parent="x8Main">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="LoadParams" parent="x8Main">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="SaveParams" parent="x8Main">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTimer" parent="x8Main">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onReceive" parent="x8Main">
+            <param id="responseCode"/>
+            <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="GetGeoNow" parent="x8Main">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="GetStepsNow" parent="x8Main">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="GetAccNow" parent="x8Main">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="WebCall" parent="x8Main">
+            <param id="cType"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/x8Main/&lt;&gt;WebCall_BigBrotherGPS&gt;" parent="x8Main">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/x8Main/&lt;&gt;WebCall_MapMyTracks&gt;" parent="x8Main">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" name="&lt;globals/x8Main/&lt;&gt;WebCall_Navicom&gt;" parent="x8Main">
+            <param id="cType"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSensor" parent="x8Main">
+            <param id="sensor_info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="Bgrnd" parent="x8Main">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="x8View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="x8View">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="x8View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="x8View">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="x8View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="ConvertDegrees" parent="x8View">
+            <param id="dd"/>
+            <param id="frm"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
